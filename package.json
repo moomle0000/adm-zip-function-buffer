@@ -1,0 +1,23 @@
+{
+  "name": "lmtv_api",
+  "author": "moomle lm@lmtv.xyz",
+  "description": "Streaming torrent client $ api database",
+  "scripts": {
+    "test": "moomle"
+  },
+  "keywords": [
+    "zip",
+    "file",
+    "tools",
+    "simple",
+    "extract",
+    "function",
+    "zip file",
+    "zip extract"
+  ],
+  "license": "moomle",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "axios": "^0.27.2",
+  }
+}
