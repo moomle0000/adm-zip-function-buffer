@@ -33,5 +33,5 @@ async function extrDatae(url) {
 License
 -------
 
-JSZip is dual-licensed. You may use it under the MIT license *or* the LM
+adm-zip is dual-licensed. You may use it under the MIT license *or* the LM
 license. See [LICENSE](LICENSE).
